@@ -1,0 +1,38 @@
+@font-face {
+    font-family: "OpenSans";
+    src: url("./OpenSans-Regular.ttf");
+}
+body {
+    font-family: "OpenSans";
+    background-color: #f9fafc;
+}
+.black {
+    color: #000;
+    margin: 10px;
+}
+.white {
+    color: #FFF;
+    background-color: #000;
+    text-align: center;
+    padding: 5px;
+    margin: 15px;
+    border-radius: 50px;
+    
+}
+.vertical {
+        border-left: 6px solid #69696a;
+        text-align: left;
+        margin: 10px;
+        padding: 10px;
+      }
+.h1 {
+    font-size: 25px;
+    color: #000;
+}
+.text {
+    text-decoration: none;
+    color: #69696a;
+    font-size: x-large;
+    padding: 10px;
+    width: 200px;;
+}
